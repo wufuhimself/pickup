@@ -114,13 +114,8 @@
   "deletedPluginsIos": [],
   "changedFiles": [
     "plugins\\android.json",
-    "www\\js\\app.js",
-    "www\\js\\services\\auth.js",
-    "www\\js\\controllers\\login.js",
-    "www\\templates\\login.html",
-    "www\\templates\\settings.html",
-    "www\\js\\controllers\\settings.js",
-    "www\\js\\controllers\\pickup.js"
+    "www\\js\\controllers\\pickup.js",
+    "www\\templates\\pickup.html"
   ],
   "deletedFiles": [],
   "addedPlugins": [],
