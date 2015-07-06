@@ -27,6 +27,7 @@
     "res\\screens\\android\\screen-hdpi-portrait.png",
     "www\\js\\app.js",
     "www\\js\\services\\location.js",
+    "www\\css\\add-button.css",
     "www\\js\\controllers\\pickup.js",
     "res\\icons\\windows\\StoreLogo.scale-240.png",
     "plugins\\org.apache.cordova.geolocation\\RELEASENOTES.md",
@@ -114,8 +115,7 @@
   "deletedPluginsIos": [],
   "changedFiles": [
     "plugins\\android.json",
-    "www\\js\\controllers\\pickup.js",
-    "www\\templates\\pickup.html"
+    "www\\css\\add-button.css"
   ],
   "deletedFiles": [],
   "addedPlugins": [],

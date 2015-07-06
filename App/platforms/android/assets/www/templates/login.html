@@ -1,5 +1,18 @@
 <ion-view title="Login">
     <ion-content has-header="true" padding="true">
-        <button class="button button-block" ng-click="login()">Login with Facebook</button>
+        <button id="facebook" class="button button-block" ng-click="login()">Login with Facebook</button>
+        <button id="twitter" class="button button-block" ng-click="login()">Login with Twitter</button>
     </ion-content>
 </ion-view>
+
+<style>
+    #facebook {
+        background-color: #3B5998;
+        color: white;
+    }
+
+    #twitter {
+        background-color: #4099FF;
+        color: white;
+    }
+</style>
